@@ -93,4 +93,5 @@ cargo run
 This project is a simple exercise to demonstrate various Rust programming concepts. It is not intended to be a fully functional application but rather an educational tool to help you learn Rust. Feel free to explore the code, modify it, and experiment with different features to deepen your understanding of Rust.
 
 Have fun, Rust in Peace ! 
+
 MSC
