@@ -1,6 +1,8 @@
- Process Management Application
+(Not really a) process management application
 
-This project is a simple process management application written in Rust. It is designed as a didactic exercise to demonstrate various aspects of Rust programming. This is not intended to be a fully functional application but rather an educational tool.
+This project is a simple process management application written in Rust. But it's not a real application. You should regard this code as a kind of slightly more elaborate “Hello World” designed by a beginner in Rust programming.
+It's designed as a didactic exercise to demonstrate various aspects of programming in Rust. It's not a fully functional application (although it works perfectly), but rather a teaching tool.
+
 
 ## Features
 
